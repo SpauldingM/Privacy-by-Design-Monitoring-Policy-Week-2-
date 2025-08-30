@@ -25,4 +25,12 @@ industries by sending an email to GGIndustries@gmail.com. Misuse or violations m
 the loss of access and/or disciplinary action.
 
 ## Reflection
+Overall, I got to learn about privacy principles, how they work together and got to work on
+making my own monitoring & retention clause. I feel I should follow up more on the retention
+clause and make it a bit more professional. I will also be looking out for how my personal
+information is being collected and sold.
 
+## Word of advice
+Depending on your state, look up what policies and laws your state that involve with your
+personal information. You as a consumer should be allowed more control over your personal
+data, when it should be deleted or opting when it can be sold or shared.
